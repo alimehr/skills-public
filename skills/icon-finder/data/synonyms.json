@@ -1,0 +1,1359 @@
+{
+ "_about": "Query expansion for icon-finder. 'en' maps a UI concept to the words icon sets use in names/tags. 'fa' maps Persian words/phrases to English concepts (which are then expanded through 'en'). Longer Persian phrases are matched first.",
+ "en": {
+  "settings": [
+   "gear",
+   "cog",
+   "sliders",
+   "preferences",
+   "options",
+   "config"
+  ],
+  "preferences": [
+   "settings",
+   "sliders",
+   "gear"
+  ],
+  "delete": [
+   "trash",
+   "bin",
+   "remove",
+   "erase"
+  ],
+  "remove": [
+   "minus",
+   "x",
+   "trash",
+   "delete"
+  ],
+  "edit": [
+   "pencil",
+   "pen",
+   "write",
+   "modify"
+  ],
+  "write": [
+   "pencil",
+   "pen",
+   "edit",
+   "note"
+  ],
+  "search": [
+   "magnifying",
+   "glass",
+   "search",
+   "find",
+   "zoom"
+  ],
+  "find": [
+   "search",
+   "magnifying",
+   "glass"
+  ],
+  "user": [
+   "person",
+   "profile",
+   "account",
+   "avatar",
+   "people"
+  ],
+  "profile": [
+   "user",
+   "person",
+   "account",
+   "avatar",
+   "id"
+  ],
+  "account": [
+   "user",
+   "person",
+   "profile",
+   "wallet"
+  ],
+  "users": [
+   "people",
+   "group",
+   "team",
+   "user"
+  ],
+  "team": [
+   "users",
+   "people",
+   "group"
+  ],
+  "home": [
+   "house",
+   "main",
+   "dashboard"
+  ],
+  "dashboard": [
+   "layout",
+   "gauge",
+   "chart",
+   "grid",
+   "home"
+  ],
+  "menu": [
+   "hamburger",
+   "list",
+   "bars",
+   "navigation"
+  ],
+  "close": [
+   "x",
+   "cross",
+   "exit",
+   "dismiss"
+  ],
+  "cancel": [
+   "x",
+   "close",
+   "ban",
+   "circle-x"
+  ],
+  "add": [
+   "plus",
+   "new",
+   "create",
+   "circle-plus"
+  ],
+  "create": [
+   "plus",
+   "add",
+   "new"
+  ],
+  "save": [
+   "floppy",
+   "disk",
+   "download",
+   "check"
+  ],
+  "download": [
+   "arrow-down",
+   "save",
+   "import",
+   "tray"
+  ],
+  "upload": [
+   "arrow-up",
+   "cloud",
+   "export",
+   "share"
+  ],
+  "share": [
+   "share",
+   "send",
+   "export",
+   "network"
+  ],
+  "send": [
+   "paper-plane",
+   "plane",
+   "arrow",
+   "message"
+  ],
+  "message": [
+   "chat",
+   "bubble",
+   "conversation",
+   "comment",
+   "mail"
+  ],
+  "chat": [
+   "message",
+   "bubble",
+   "conversation",
+   "comment"
+  ],
+  "comment": [
+   "message",
+   "chat",
+   "bubble",
+   "quote"
+  ],
+  "mail": [
+   "envelope",
+   "email",
+   "inbox",
+   "letter"
+  ],
+  "email": [
+   "envelope",
+   "mail",
+   "at",
+   "inbox"
+  ],
+  "notification": [
+   "bell",
+   "alert",
+   "badge",
+   "ring"
+  ],
+  "alert": [
+   "warning",
+   "triangle",
+   "exclamation",
+   "bell",
+   "danger"
+  ],
+  "warning": [
+   "alert",
+   "triangle",
+   "exclamation",
+   "caution"
+  ],
+  "error": [
+   "x",
+   "alert",
+   "octagon",
+   "warning",
+   "bug"
+  ],
+  "success": [
+   "check",
+   "circle-check",
+   "done",
+   "tick"
+  ],
+  "done": [
+   "check",
+   "tick",
+   "complete"
+  ],
+  "info": [
+   "information",
+   "i",
+   "circle-help",
+   "question"
+  ],
+  "help": [
+   "question",
+   "lifebuoy",
+   "support",
+   "info"
+  ],
+  "support": [
+   "help",
+   "lifebuoy",
+   "headset",
+   "headphones"
+  ],
+  "phone": [
+   "call",
+   "mobile",
+   "smartphone",
+   "device"
+  ],
+  "call": [
+   "phone",
+   "telephone",
+   "ring"
+  ],
+  "calendar": [
+   "date",
+   "schedule",
+   "event",
+   "day"
+  ],
+  "schedule": [
+   "calendar",
+   "clock",
+   "time",
+   "agenda"
+  ],
+  "time": [
+   "clock",
+   "timer",
+   "hourglass",
+   "watch"
+  ],
+  "history": [
+   "clock",
+   "rotate",
+   "undo",
+   "time",
+   "archive"
+  ],
+  "lock": [
+   "padlock",
+   "secure",
+   "password",
+   "security"
+  ],
+  "unlock": [
+   "lock-open",
+   "open",
+   "padlock"
+  ],
+  "security": [
+   "shield",
+   "lock",
+   "key",
+   "protect"
+  ],
+  "password": [
+   "key",
+   "lock",
+   "asterisk"
+  ],
+  "login": [
+   "log-in",
+   "sign-in",
+   "enter",
+   "door",
+   "key"
+  ],
+  "logout": [
+   "log-out",
+   "sign-out",
+   "exit",
+   "door"
+  ],
+  "cart": [
+   "shopping",
+   "basket",
+   "bag",
+   "trolley",
+   "store"
+  ],
+  "shop": [
+   "store",
+   "cart",
+   "bag",
+   "shopping",
+   "storefront"
+  ],
+  "payment": [
+   "credit-card",
+   "card",
+   "money",
+   "wallet",
+   "cash"
+  ],
+  "money": [
+   "cash",
+   "coin",
+   "currency",
+   "dollar",
+   "wallet",
+   "banknote"
+  ],
+  "wallet": [
+   "money",
+   "purse",
+   "payment",
+   "coin"
+  ],
+  "invoice": [
+   "receipt",
+   "bill",
+   "file",
+   "document"
+  ],
+  "price": [
+   "tag",
+   "currency",
+   "money",
+   "label"
+  ],
+  "discount": [
+   "percent",
+   "tag",
+   "badge",
+   "sale",
+   "coupon"
+  ],
+  "order": [
+   "package",
+   "box",
+   "receipt",
+   "list"
+  ],
+  "shipping": [
+   "truck",
+   "delivery",
+   "package",
+   "van"
+  ],
+  "delivery": [
+   "truck",
+   "package",
+   "shipping",
+   "van",
+   "moped"
+  ],
+  "product": [
+   "package",
+   "box",
+   "cube",
+   "tag"
+  ],
+  "file": [
+   "document",
+   "page",
+   "paper"
+  ],
+  "document": [
+   "file",
+   "page",
+   "paper",
+   "text"
+  ],
+  "folder": [
+   "directory",
+   "archive",
+   "files"
+  ],
+  "image": [
+   "photo",
+   "picture",
+   "gallery",
+   "camera"
+  ],
+  "photo": [
+   "image",
+   "camera",
+   "picture",
+   "gallery"
+  ],
+  "video": [
+   "film",
+   "movie",
+   "play",
+   "camera",
+   "clapperboard"
+  ],
+  "music": [
+   "note",
+   "audio",
+   "sound",
+   "headphones",
+   "disc"
+  ],
+  "audio": [
+   "sound",
+   "volume",
+   "speaker",
+   "music",
+   "microphone"
+  ],
+  "volume": [
+   "speaker",
+   "sound",
+   "audio"
+  ],
+  "mute": [
+   "volume-x",
+   "speaker-off",
+   "silent"
+  ],
+  "play": [
+   "start",
+   "triangle",
+   "media"
+  ],
+  "pause": [
+   "stop",
+   "media"
+  ],
+  "camera": [
+   "photo",
+   "picture",
+   "lens"
+  ],
+  "scan": [
+   "qr",
+   "barcode",
+   "scan",
+   "focus",
+   "frame"
+  ],
+  "location": [
+   "map-pin",
+   "pin",
+   "marker",
+   "place",
+   "gps",
+   "navigation"
+  ],
+  "map": [
+   "location",
+   "pin",
+   "globe",
+   "navigation",
+   "route"
+  ],
+  "language": [
+   "languages",
+   "translate",
+   "globe",
+   "world"
+  ],
+  "globe": [
+   "world",
+   "earth",
+   "international",
+   "language"
+  ],
+  "link": [
+   "chain",
+   "url",
+   "hyperlink",
+   "attachment"
+  ],
+  "attachment": [
+   "paperclip",
+   "clip",
+   "attach",
+   "file"
+  ],
+  "copy": [
+   "duplicate",
+   "clipboard",
+   "copy"
+  ],
+  "paste": [
+   "clipboard"
+  ],
+  "print": [
+   "printer"
+  ],
+  "filter": [
+   "funnel",
+   "sliders",
+   "sort"
+  ],
+  "sort": [
+   "arrow-up-down",
+   "order",
+   "sort",
+   "filter"
+  ],
+  "refresh": [
+   "rotate",
+   "reload",
+   "sync",
+   "arrows-clockwise",
+   "repeat"
+  ],
+  "sync": [
+   "refresh",
+   "rotate",
+   "arrows"
+  ],
+  "undo": [
+   "rotate-ccw",
+   "arrow-back",
+   "reverse"
+  ],
+  "back": [
+   "arrow-left",
+   "chevron-left",
+   "return",
+   "previous"
+  ],
+  "next": [
+   "arrow-right",
+   "chevron-right",
+   "forward"
+  ],
+  "expand": [
+   "maximize",
+   "chevron-down",
+   "arrows-out"
+  ],
+  "collapse": [
+   "minimize",
+   "chevron-up",
+   "arrows-in"
+  ],
+  "more": [
+   "dots",
+   "ellipsis",
+   "horizontal",
+   "vertical",
+   "kebab"
+  ],
+  "favorite": [
+   "heart",
+   "star",
+   "like",
+   "bookmark"
+  ],
+  "like": [
+   "heart",
+   "thumbs-up",
+   "favorite"
+  ],
+  "bookmark": [
+   "save",
+   "ribbon",
+   "favorite"
+  ],
+  "star": [
+   "rating",
+   "favorite",
+   "review"
+  ],
+  "rating": [
+   "star",
+   "review"
+  ],
+  "visible": [
+   "eye",
+   "show",
+   "view"
+  ],
+  "hidden": [
+   "eye-off",
+   "eye-slash",
+   "hide"
+  ],
+  "chart": [
+   "graph",
+   "analytics",
+   "statistics",
+   "bar",
+   "pie",
+   "line"
+  ],
+  "analytics": [
+   "chart",
+   "graph",
+   "statistics",
+   "trending",
+   "presentation"
+  ],
+  "report": [
+   "chart",
+   "file",
+   "document",
+   "clipboard",
+   "presentation"
+  ],
+  "trend": [
+   "trending",
+   "arrow",
+   "growth",
+   "chart"
+  ],
+  "database": [
+   "server",
+   "storage",
+   "data",
+   "stack"
+  ],
+  "server": [
+   "database",
+   "cloud",
+   "storage",
+   "rack"
+  ],
+  "cloud": [
+   "upload",
+   "storage",
+   "weather"
+  ],
+  "code": [
+   "brackets",
+   "terminal",
+   "developer",
+   "programming",
+   "braces"
+  ],
+  "terminal": [
+   "console",
+   "command",
+   "code",
+   "prompt"
+  ],
+  "bug": [
+   "insect",
+   "error",
+   "debug"
+  ],
+  "ai": [
+   "sparkles",
+   "sparkle",
+   "brain",
+   "robot",
+   "bot",
+   "magic",
+   "wand",
+   "cpu"
+  ],
+  "robot": [
+   "bot",
+   "ai",
+   "android"
+  ],
+  "magic": [
+   "wand",
+   "sparkles",
+   "sparkle",
+   "stars"
+  ],
+  "light": [
+   "sun",
+   "bulb",
+   "lamp",
+   "day"
+  ],
+  "dark": [
+   "moon",
+   "night"
+  ],
+  "theme": [
+   "sun",
+   "moon",
+   "palette",
+   "contrast"
+  ],
+  "color": [
+   "palette",
+   "paint",
+   "brush",
+   "droplet",
+   "swatch"
+  ],
+  "design": [
+   "palette",
+   "pen-tool",
+   "brush",
+   "figma",
+   "layers"
+  ],
+  "layers": [
+   "stack",
+   "layer"
+  ],
+  "grid": [
+   "layout",
+   "squares",
+   "table",
+   "dashboard"
+  ],
+  "list": [
+   "rows",
+   "menu",
+   "bullets",
+   "items"
+  ],
+  "table": [
+   "grid",
+   "spreadsheet",
+   "rows",
+   "columns"
+  ],
+  "task": [
+   "check",
+   "checklist",
+   "todo",
+   "list-checks",
+   "square-check"
+  ],
+  "todo": [
+   "checklist",
+   "task",
+   "list-checks"
+  ],
+  "tag": [
+   "label",
+   "price",
+   "badge"
+  ],
+  "gift": [
+   "present",
+   "reward",
+   "box"
+  ],
+  "reward": [
+   "trophy",
+   "medal",
+   "award",
+   "gift",
+   "crown"
+  ],
+  "trophy": [
+   "award",
+   "cup",
+   "winner",
+   "prize",
+   "reward"
+  ],
+  "winner": [
+   "trophy",
+   "crown",
+   "medal",
+   "award"
+  ],
+  "lottery": [
+   "ticket",
+   "dice",
+   "clover",
+   "gift"
+  ],
+  "ticket": [
+   "coupon",
+   "pass",
+   "admission"
+  ],
+  "game": [
+   "gamepad",
+   "joystick",
+   "controller",
+   "dice",
+   "puzzle"
+  ],
+  "football": [
+   "soccer",
+   "ball",
+   "sport",
+   "goal"
+  ],
+  "soccer": [
+   "football",
+   "ball",
+   "sport"
+  ],
+  "sport": [
+   "ball",
+   "trophy",
+   "football",
+   "basketball",
+   "dumbbell"
+  ],
+  "health": [
+   "heart",
+   "pulse",
+   "activity",
+   "medical",
+   "stethoscope"
+  ],
+  "medical": [
+   "health",
+   "hospital",
+   "pill",
+   "stethoscope",
+   "first-aid"
+  ],
+  "education": [
+   "graduation",
+   "school",
+   "book",
+   "academic",
+   "cap"
+  ],
+  "book": [
+   "read",
+   "library",
+   "notebook",
+   "journal"
+  ],
+  "news": [
+   "newspaper",
+   "article",
+   "rss"
+  ],
+  "office": [
+   "building",
+   "briefcase",
+   "work",
+   "company"
+  ],
+  "company": [
+   "building",
+   "office",
+   "factory",
+   "briefcase"
+  ],
+  "work": [
+   "briefcase",
+   "job",
+   "office"
+  ],
+  "crm": [
+   "users",
+   "contact",
+   "address-book",
+   "handshake"
+  ],
+  "contact": [
+   "address-book",
+   "phone",
+   "user",
+   "card"
+  ],
+  "customer": [
+   "user",
+   "person",
+   "contact",
+   "handshake"
+  ],
+  "handshake": [
+   "deal",
+   "agreement",
+   "partner"
+  ],
+  "car": [
+   "vehicle",
+   "automobile",
+   "transport"
+  ],
+  "food": [
+   "utensils",
+   "fork",
+   "knife",
+   "restaurant",
+   "chef",
+   "pizza"
+  ],
+  "restaurant": [
+   "utensils",
+   "food",
+   "chef",
+   "fork"
+  ],
+  "coffee": [
+   "cup",
+   "mug",
+   "cafe"
+  ],
+  "weather": [
+   "sun",
+   "cloud",
+   "rain",
+   "snow",
+   "temperature"
+  ],
+  "power": [
+   "power",
+   "off",
+   "on",
+   "shutdown",
+   "plug",
+   "battery"
+  ],
+  "battery": [
+   "power",
+   "charge",
+   "energy"
+  ],
+  "wifi": [
+   "wireless",
+   "network",
+   "signal",
+   "internet"
+  ],
+  "bluetooth": [
+   "wireless",
+   "connect"
+  ],
+  "keyboard": [
+   "keys",
+   "typing",
+   "input"
+  ],
+  "mouse": [
+   "pointer",
+   "cursor",
+   "click"
+  ],
+  "upload-file": [
+   "file-up",
+   "file-upload",
+   "upload"
+  ],
+  "crypto": [
+   "bitcoin",
+   "currency",
+   "coin",
+   "wallet",
+   "blockchain"
+  ],
+  "blockchain": [
+   "link",
+   "chain",
+   "cube",
+   "network",
+   "crypto"
+  ],
+  "telegram": [
+   "send",
+   "paper-plane",
+   "message"
+  ],
+  "verified": [
+   "badge-check",
+   "check",
+   "seal",
+   "certificate",
+   "shield-check"
+  ],
+  "admin": [
+   "shield",
+   "crown",
+   "user-cog",
+   "key"
+  ],
+  "fire": [
+   "flame",
+   "hot",
+   "trending"
+  ],
+  "rocket": [
+   "launch",
+   "startup",
+   "boost"
+  ],
+  "launch": [
+   "rocket",
+   "start"
+  ]
+ },
+ "fa": {
+  "سبد خرید": "cart",
+  "کارت بانکی": "payment",
+  "کارت اعتباری": "payment",
+  "ورود به حساب": "login",
+  "خروج از حساب": "logout",
+  "حساب کاربری": "account",
+  "پروفایل کاربری": "profile",
+  "صفحه اصلی": "home",
+  "پیشخوان": "dashboard",
+  "داشبورد": "dashboard",
+  "نوار کناری": "menu",
+  "منو": "menu",
+  "فهرست": "list",
+  "تنظیمات": "settings",
+  "ترجیحات": "preferences",
+  "جستجو": "search",
+  "جست‌وجو": "search",
+  "پیدا کردن": "find",
+  "کاربر": "user",
+  "کاربران": "users",
+  "تیم": "team",
+  "پروفایل": "profile",
+  "حساب": "account",
+  "خانه": "home",
+  "بستن": "close",
+  "لغو": "cancel",
+  "افزودن": "add",
+  "اضافه": "add",
+  "ایجاد": "create",
+  "جدید": "add",
+  "حذف": "delete",
+  "پاک کردن": "delete",
+  "ویرایش": "edit",
+  "نوشتن": "write",
+  "ذخیره": "save",
+  "دانلود": "download",
+  "بارگیری": "download",
+  "آپلود": "upload",
+  "بارگذاری": "upload",
+  "اشتراک": "share",
+  "اشتراک‌گذاری": "share",
+  "ارسال": "send",
+  "فرستادن": "send",
+  "پیام": "message",
+  "گفتگو": "chat",
+  "چت": "chat",
+  "نظر": "comment",
+  "دیدگاه": "comment",
+  "ایمیل": "email",
+  "نامه": "mail",
+  "اعلان": "notification",
+  "اطلاعیه": "notification",
+  "هشدار": "warning",
+  "خطا": "error",
+  "موفق": "success",
+  "انجام شد": "done",
+  "اطلاعات": "info",
+  "راهنما": "help",
+  "کمک": "help",
+  "پشتیبانی": "support",
+  "تلفن": "phone",
+  "تماس": "call",
+  "موبایل": "phone",
+  "تقویم": "calendar",
+  "برنامه": "schedule",
+  "زمان": "time",
+  "ساعت": "time",
+  "تاریخچه": "history",
+  "قفل": "lock",
+  "باز کردن قفل": "unlock",
+  "امنیت": "security",
+  "رمز عبور": "password",
+  "رمز": "password",
+  "ورود": "login",
+  "خروج": "logout",
+  "فروشگاه": "shop",
+  "خرید": "cart",
+  "پرداخت": "payment",
+  "پول": "money",
+  "کیف پول": "wallet",
+  "فاکتور": "invoice",
+  "صورتحساب": "invoice",
+  "قیمت": "price",
+  "تخفیف": "discount",
+  "سفارش": "order",
+  "ارسال کالا": "shipping",
+  "تحویل": "delivery",
+  "محصول": "product",
+  "کالا": "product",
+  "فایل": "file",
+  "پرونده": "file",
+  "سند": "document",
+  "پوشه": "folder",
+  "تصویر": "image",
+  "عکس": "photo",
+  "ویدیو": "video",
+  "فیلم": "video",
+  "موسیقی": "music",
+  "صدا": "audio",
+  "بی‌صدا": "mute",
+  "پخش": "play",
+  "توقف": "pause",
+  "دوربین": "camera",
+  "اسکن": "scan",
+  "مکان": "location",
+  "موقعیت": "location",
+  "نقشه": "map",
+  "زبان": "language",
+  "جهان": "globe",
+  "لینک": "link",
+  "پیوند": "link",
+  "پیوست": "attachment",
+  "کپی": "copy",
+  "رونوشت": "copy",
+  "چاپ": "print",
+  "فیلتر": "filter",
+  "مرتب‌سازی": "sort",
+  "مرتب سازی": "sort",
+  "بازخوانی": "refresh",
+  "تازه‌سازی": "refresh",
+  "همگام‌سازی": "sync",
+  "برگشت": "back",
+  "بازگشت": "back",
+  "قبلی": "back",
+  "بعدی": "next",
+  "بیشتر": "more",
+  "علاقه‌مندی": "favorite",
+  "پسند": "like",
+  "لایک": "like",
+  "نشانک": "bookmark",
+  "ستاره": "star",
+  "امتیاز": "rating",
+  "نمایش": "visible",
+  "مخفی": "hidden",
+  "نمودار": "chart",
+  "آمار": "analytics",
+  "گزارش": "report chart",
+  "روند": "trend",
+  "پایگاه داده": "database",
+  "دیتابیس": "database",
+  "سرور": "server",
+  "ابر": "cloud",
+  "کد": "code",
+  "ترمینال": "terminal",
+  "باگ": "bug",
+  "هوش مصنوعی": "ai",
+  "ربات": "robot",
+  "روشن": "light",
+  "تاریک": "dark",
+  "پوسته": "theme",
+  "تم": "theme",
+  "رنگ": "color",
+  "طراحی": "design",
+  "لایه": "layers",
+  "جدول": "table",
+  "شبکه": "grid",
+  "وظیفه": "task",
+  "کار": "task",
+  "برچسب": "tag",
+  "هدیه": "gift",
+  "جایزه": "reward",
+  "برنده": "winner",
+  "قرعه‌کشی": "lottery",
+  "قرعه کشی": "lottery",
+  "بلیت": "ticket",
+  "بلیط": "ticket",
+  "بازی": "game",
+  "فوتبال": "football",
+  "ورزش": "sport",
+  "سلامت": "health",
+  "پزشکی": "medical",
+  "آموزش": "education",
+  "کتاب": "book",
+  "اخبار": "news",
+  "خبر": "news",
+  "اداره": "office",
+  "دفتر": "office",
+  "شرکت": "company",
+  "مشتری": "customer",
+  "مشتریان": "customer",
+  "مخاطب": "contact",
+  "قرارداد": "handshake",
+  "خودرو": "car",
+  "ماشین": "car",
+  "غذا": "food",
+  "رستوران": "restaurant",
+  "قهوه": "coffee",
+  "آب و هوا": "weather",
+  "روشن/خاموش": "power",
+  "خاموش": "power",
+  "باتری": "battery",
+  "وای‌فای": "wifi",
+  "اینترنت": "wifi",
+  "کیبورد": "keyboard",
+  "ارز دیجیتال": "crypto",
+  "رمزارز": "crypto",
+  "بلاکچین": "blockchain",
+  "تلگرام": "telegram",
+  "تایید": "verified",
+  "تأیید": "verified",
+  "مدیر": "admin",
+  "آتش": "fire",
+  "داغ": "fire",
+  "موشک": "rocket",
+  "راه‌اندازی": "launch",
+  "گزارش‌ها": "report chart"
+ },
+ "heroicons_tags": {
+  "arrow-right-start-on-rectangle": "logout sign out exit",
+  "arrow-left-start-on-rectangle": "logout sign out exit",
+  "arrow-right-end-on-rectangle": "login sign in enter",
+  "arrow-left-end-on-rectangle": "login sign in enter",
+  "cog-6-tooth": "settings gear preferences",
+  "cog-8-tooth": "settings gear",
+  "cog": "settings gear",
+  "adjustments-horizontal": "settings filter sliders preferences",
+  "adjustments-vertical": "settings filter sliders",
+  "bars-3": "menu hamburger navigation",
+  "bars-3-bottom-left": "menu text align",
+  "x-mark": "close cancel dismiss remove",
+  "magnifying-glass": "search find zoom",
+  "ellipsis-horizontal": "more menu dots options",
+  "ellipsis-vertical": "more menu dots kebab options",
+  "arrow-path": "refresh reload sync retry",
+  "trash": "delete remove bin",
+  "pencil-square": "edit write compose",
+  "pencil": "edit write",
+  "bell": "notification alert",
+  "bell-alert": "notification alert ringing",
+  "envelope": "mail email inbox message",
+  "chat-bubble-left-right": "chat conversation messages comments",
+  "chat-bubble-oval-left": "chat message comment",
+  "user-circle": "profile account avatar user",
+  "user": "person profile account",
+  "users": "people team group",
+  "user-group": "team people group",
+  "squares-2x2": "dashboard grid apps layout",
+  "chart-bar": "analytics statistics report chart",
+  "chart-pie": "analytics statistics report chart",
+  "presentation-chart-line": "analytics report trend chart",
+  "shopping-cart": "cart shop basket",
+  "shopping-bag": "shop bag store",
+  "banknotes": "money cash payment",
+  "credit-card": "payment card money",
+  "arrow-down-tray": "download save import",
+  "arrow-up-tray": "upload export",
+  "document-duplicate": "copy duplicate",
+  "clipboard": "paste clipboard",
+  "funnel": "filter",
+  "eye": "visible show view",
+  "eye-slash": "hidden hide invisible",
+  "lock-closed": "lock secure password",
+  "lock-open": "unlock open",
+  "power": "power off shutdown",
+  "sparkles": "ai magic new",
+  "language": "language translate",
+  "globe-alt": "globe world web internet language",
+  "map-pin": "location place marker pin",
+  "qr-code": "scan qr code",
+  "share": "share",
+  "paper-airplane": "send message telegram",
+  "clipboard-document-list": "tasks todo checklist list",
+  "clipboard-document-check": "task done checklist",
+  "calendar-days": "calendar date schedule",
+  "clock": "time history schedule",
+  "home": "house home",
+  "plus": "add create new",
+  "plus-circle": "add create new",
+  "minus": "remove subtract",
+  "check": "done success confirm",
+  "check-circle": "success done confirm verified",
+  "exclamation-triangle": "warning alert caution",
+  "x-circle": "error cancel close",
+  "information-circle": "info information",
+  "question-mark-circle": "help question support faq",
+  "heart": "favorite like love",
+  "star": "favorite rating review",
+  "bookmark": "bookmark save favorite",
+  "photo": "image picture gallery",
+  "video-camera": "video camera record",
+  "musical-note": "music audio song",
+  "speaker-wave": "volume sound audio",
+  "speaker-x-mark": "mute silent",
+  "play": "play start",
+  "pause": "pause",
+  "gift": "gift present reward",
+  "trophy": "trophy award winner reward",
+  "ticket": "ticket coupon lottery",
+  "truck": "shipping delivery",
+  "building-office": "office company building",
+  "building-storefront": "shop store",
+  "briefcase": "work job office",
+  "identification": "id card profile",
+  "shield-check": "security verified protected",
+  "key": "password key access",
+  "wallet": "wallet money payment",
+  "receipt-percent": "discount coupon sale",
+  "receipt-refund": "refund invoice",
+  "tag": "tag label price",
+  "cube": "product box package 3d",
+  "archive-box": "archive box storage",
+  "folder": "folder directory",
+  "document-text": "document file text report",
+  "link": "link url chain",
+  "paper-clip": "attachment attach",
+  "printer": "print printer",
+  "wifi": "wifi wireless internet",
+  "moon": "dark night theme",
+  "sun": "light day theme",
+  "swatch": "color palette theme",
+  "rocket-launch": "rocket launch startup",
+  "fire": "fire hot trending",
+  "bug-ant": "bug debug error",
+  "code-bracket": "code developer",
+  "command-line": "terminal console command",
+  "server": "server hosting",
+  "circle-stack": "database storage data",
+  "cloud-arrow-up": "upload cloud",
+  "cloud-arrow-down": "download cloud",
+  "phone": "phone call",
+  "device-phone-mobile": "mobile phone smartphone",
+  "computer-desktop": "desktop computer monitor",
+  "academic-cap": "education school graduation",
+  "book-open": "book read docs",
+  "newspaper": "news article",
+  "inbox": "inbox mail",
+  "inbox-stack": "inbox archive",
+  "arrow-left": "back previous",
+  "chevron-left": "back previous",
+  "arrow-right": "next forward",
+  "chevron-right": "next forward",
+  "arrows-pointing-out": "expand fullscreen maximize",
+  "arrows-pointing-in": "collapse minimize",
+  "arrow-uturn-left": "undo back",
+  "arrow-uturn-right": "redo",
+  "hand-thumb-up": "like approve",
+  "face-smile": "emoji happy smile",
+  "lifebuoy": "help support",
+  "megaphone": "announcement marketing broadcast",
+  "currency-dollar": "money price currency",
+  "scale": "legal balance compare",
+  "calculator": "calculator math",
+  "puzzle-piece": "plugin extension puzzle"
+ }
+}
